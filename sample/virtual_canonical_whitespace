@@ -1,0 +1,6 @@
+# /etc/postfix/virtual
+# You have to run postmap virtual after changing this file
+# It'll write out /etc/postfix/virtual.db
+ 
+test@anotherdomain.com someone@gmail.com # Forward one address to one address
+@domain.com another@me.com # Forward whole domain to one address

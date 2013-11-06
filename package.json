@@ -1,0 +1,15 @@
+{
+  "name": "postfix",
+  "version": "0.0.0",
+  "description": "a postfix virtual datastore",
+  "main": "postfix.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "nuno job @dscape",
+  "license": "Apache 2",
+  "devDependencies": {},
+  "dependencies": {
+    "tape": "~2.1.0"
+  }
+}
