@@ -1,5 +1,7 @@
 # postfix
 
+[![build status](https://secure.travis-ci.org/dscape/postfix.png)](http://travis-ci.org/dscape/postfix)
+
 a simple node package to parse and change postfile config files
 
 ``` js
